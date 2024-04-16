@@ -1,4 +1,4 @@
-#include "rps.cpp"
+#include "rps.hpp"
 #include <iostream>
 
 int main() {
